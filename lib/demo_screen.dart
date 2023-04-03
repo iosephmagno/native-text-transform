@@ -35,7 +35,7 @@ class _DemoScreenState extends State<DemoScreen> with TickerProviderStateMixin {
                 padding: EdgeInsets.all(20),
                 color: Colors.grey,
                 child: const NativeLabel(
-                  'Sampel Text 👍👍👍👍 👍👍👍👍 ',
+                  'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 👍👍👍👍 👍👍👍👍 ',
                 ),
               ),
             ),
